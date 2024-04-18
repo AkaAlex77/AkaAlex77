@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandar Petrov</h1>
-<h3 align="center">A computer science student Bulgaria/Sofia</h3>
+<h3 align="center">A computer science student from Bulgaria/Sofia</h3>
 
 - 🌱 I’m currently learning **C#, ASP.NET, HTML/CSS/JavaScript, MS SQL**
 
